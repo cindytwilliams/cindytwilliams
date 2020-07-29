@@ -4,9 +4,6 @@
 
 I currently work as a Drupal Engineer & Themer at [Kanopi Studios](https://kanopi.com). My day-to-day tasks include Drupal and WordPress site building and configuration, custom front-end and theme layer development, custom module development, and the maintenance of existing code.
 
-<img src="https://github.com/cindytwilliams/cindytwilliams/blob/master/acquia-certified-developer-drupal-8.png" width="75">
+[LinkedIn](https://www.linkedin.com/in/cindytwilliams) | [Drupal.org](https://www.drupal.org/u/cindytwilliams) | [Twitter](https://twitter.com/cindytwilliams)
 
-## Around the Web:
-- [LinkedIn](https://www.linkedin.com/in/cindytwilliams)
-- [Drupal.org](https://www.drupal.org/u/cindytwilliams)
-- [Twitter](https://twitter.com/cindytwilliams)
+<img src="https://github.com/cindytwilliams/cindytwilliams/blob/master/acquia-certified-developer-drupal-8.png" width="75">
